@@ -6,22 +6,28 @@ labels: ''
 assignees: ''
 
 ---
+<!--- Verify first that your issue is not already reported on GitHub -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+##### SUMMARY
+<!--- Explain the problem briefly below -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+##### ISSUE TYPE
+- Bug Report
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+##### STEPS TO REPRODUCE
+<!--- Describe exactly how to reproduce the problem, using a minimal test-case -->
+```paste below
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+```
 
-**Additional context**
-Add any other context about the problem here.
+##### EXPECTED RESULTS
+<!--- Describe what you expected to happen when running the steps above -->
+
+
+##### ACTUAL RESULTS
+<!--- Describe what actually happened. If possible run with extra verbosity (-vvvv) -->
+
+<!--- Paste verbatim command output between quotes -->
+```paste below
+
+```
